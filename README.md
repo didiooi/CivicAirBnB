@@ -49,5 +49,6 @@ Estimated overlap between AirBNB guests and hotel guests (to determine what % of
 ..* Airbnb listings are very underrepresented in neighborhoods that are going through gentrification
 ..* Majority of listings are within the $10-20 per night (which utilizes garage or sofa) which shows the popularity of low price
 
-# Link to Final Presentation
-goo.gl/YBB4Nm
+# Links
+[Google Doc Presentation](goo.gl/YBB4Nm)
+[DevPost](https://devpost.com/software/civicairbnb)
