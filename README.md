@@ -32,8 +32,8 @@ Data analytics and visualization were done in Tibco Spotfire 7.0 and Tableau whi
 6. Distribution of Hotel Occupancy Tax (HOT)
 
 ## Challenges We Ran Into:
-..* Difficulty scraping of data from Airbnb, had to use multiple IP addresses
-..* Proxies were used to estimate hosts' income and number of nights booked (there is about 8% error)
+- Difficulty scraping of data from Airbnb, had to use multiple IP addresses
+- Proxies were used to estimate hosts' income and number of nights booked (there is about 8% error)
 
 # What's Next For CivicAirBnB
 1. Compare geospatial data with youth unemployment addresses to link Hire Houston Youth participants to home sharing hosts to assist in cleaning, preparation of homes/rooms (part time summer job).
