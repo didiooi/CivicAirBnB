@@ -6,9 +6,9 @@ We are interested in how turning home sharing data and GIS into meaningful visua
 CivicAirbnb uses the power of data visualization to make neighborhood-specific home sharing data useful to city planners, policymakers, and community organizers in addressing a wide range of civic issues, including gentrification, affordable housing, small business development, and youth employment.
 
 # Accomplishment
-This is the first time Houston-specific Airbnb data has been scraped and analysed
-Being able to visualize home-sharing data
-Able to visualize Hotel Occupancy Tax income to the city from home sharing
+- This is the first time Houston-specific Airbnb data has been scraped and analysed.
+- Being able to visualize home-sharing data
+- Able to visualize Hotel Occupancy Tax income to the city from home sharing
 
 # How we built it
 Data Collection:
