@@ -53,3 +53,4 @@ Estimated overlap between AirBNB guests and hotel guests (to determine what % of
 # Links
 [Google Doc Presentation](goo.gl/YBB4Nm)
 [DevPost](https://devpost.com/software/civicairbnb)
+[Video Link, ff to 54:00](https://youtu.be/GWyWWhNRD6c)
