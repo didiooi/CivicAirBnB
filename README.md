@@ -47,10 +47,10 @@ Estimated overlap between AirBNB guests and hotel guests (to determine what % of
 8. Compare stock, quantity and ADR by council district, congressional distric, school board district et cetera.
 
 # What We Learned
-..* Airbnb listings are very underrepresented in neighborhoods that are going through gentrification
-..* Majority of listings are within the $10-20 per night (which utilizes garage or sofa) which shows the popularity of low price
+1. Airbnb listings are very underrepresented in neighborhoods that are going through gentrification  
+2. Majority of listings are within the $10-20 per night (which utilizes garage or sofa) which shows the popularity of low price  
 
 # Links
-[Google Doc Presentation](goo.gl/YBB4Nm)
-[DevPost](https://devpost.com/software/civicairbnb)
-[Video Link, ff to 54:00](https://youtu.be/GWyWWhNRD6c)
+[Google Doc Presentation](goo.gl/YBB4Nm)  
+[DevPost](https://devpost.com/software/civicairbnb)  
+[Video Link, ff to 54:00](https://youtu.be/GWyWWhNRD6c)  
