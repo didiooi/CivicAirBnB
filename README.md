@@ -51,6 +51,6 @@ Estimated overlap between AirBNB guests and hotel guests (to determine what % of
 2. Majority of listings are within the $10-20 per night (which utilizes garage or sofa) which shows the popularity of low price  
 
 # Links
-[Google Doc Presentation](goo.gl/YBB4Nm)  
+[Google Doc Presentation](https://docs.google.com/presentation/d/1tFMpGlz0tj3HTEc6XVSvtpsrrsGU-bv7pIPMHwEdaPo/edit?usp=sharing)  
 [DevPost](https://devpost.com/software/civicairbnb)  
 [Video Link, ff to 54:00](https://youtu.be/GWyWWhNRD6c)  
